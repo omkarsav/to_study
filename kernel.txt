@@ -1,0 +1,5 @@
+likely and unlikely working
+	- How compiler does it ?
+	- What architecture support is needed ?
+	- Working of architecture branch prediction.
+	- Hint to architecture branch prediction.
