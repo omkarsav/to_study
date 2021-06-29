@@ -1,5 +1,18 @@
-likely and unlikely working
+* likely and unlikely working:-
+  ===========================
 	- How compiler does it ?
 	- What architecture support is needed ?
 	- Working of architecture branch prediction.
 	- Hint to architecture branch prediction.
+
+* Kernel booting:-
+  ==============
+  	- What all things EL3 initializes
+	- DT passing
+	  Why DT has to have a chosen node for kernel to boot ?
+	  How DT overlay works ?
+	  Dynamic DT patching by bootloader.
+	- initcall_debug
+	- Device driver framework and device probe
+	- RAMDISK creation and importance of devices like pty,ptmx
+	- Study of initttab
