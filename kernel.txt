@@ -16,3 +16,8 @@
 	- Device driver framework and device probe
 	- RAMDISK creation and importance of devices like pty,ptmx
 	- Study of initttab
+
+* CPU hotplug:-
+  ===========
+	- Spin tables
+	- EL3 based
