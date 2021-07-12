@@ -1,0 +1,19 @@
+C topics
+
+* Bit manipulations:-
+  =================
+  	- Shifting
+	- Finding 1s 0s
+	- Masks
+	- Reversal
+	- Hacker's delight
+
+* Data types:
+  ==========
+  	- upcasting and downcasting
+	- signed and unsigned
+
+* Arrays and pointers:
+  ===================
+  	- Complex multi dimention declarations
+	- pointer grammer
