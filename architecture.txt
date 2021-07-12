@@ -1,0 +1,30 @@
+CPU architecture
+
+* ARM architecture:-
+  ================
+  	- ARMv8 and ARMv7
+	- Exception levels
+	- Secure and non secure memory
+
+* MMU:-
+  ===
+  	- MMU and TLB working
+	- Page tables
+	- ARM TTBR
+
+* SMMU:-
+  ====
+  	- Basic working
+	- Stage 1 and Stage 2 page tables
+
+* GIC:-
+  ===
+  	- Read GIC presentation
+	- Interrupt to EL1/EL3
+
+* Cache:-
+  =====
+  	- Write back, write through, write allocate
+	- Assosiative caches
+	- Coherency and snooping
+

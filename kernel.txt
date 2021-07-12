@@ -21,3 +21,13 @@
   ===========
 	- Spin tables
 	- EL3 based
+
+* Device Drivers:-
+  ==============
+  	- Character drivers
+	- Platform and bus drivers
+	- How probe works (reall_probe/deferred probe)
+
+* Kernel general:
+  ==============
+  	- LKD reading
